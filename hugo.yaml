@@ -21,11 +21,6 @@ menu:
       weight: 20
 
 params: 
-  homeInfoParams:
-    Title: Hello
-    Content: Content
-
-
   defaultTheme: auto
   ShowFullTextRSS: true
   ShowCodeCopyButton: true
