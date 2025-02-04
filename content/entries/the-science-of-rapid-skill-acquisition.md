@@ -19,4 +19,6 @@ There are six stage that you need to go through, in order without skipping a ste
 
 Aim for *skill stacking*, becoming part of the top 1% is nearly impossible but stacking "good enough" skills can create an unique combination of abilities. Reaching the top 10-15% is doable by reading a few books, attending a course and some deliberate hands-on practice. See the [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) - 20% of work creates 80% of the outcome.
 
-Written by Peter Hollins, read it at [Blinkist](https://www.blinkist.com/en/books/the-science-of-rapid-skill-acquisition-en) or by it at [Amazon](https://www.amazon.se/Science-Rapid-Skill-Acquisition-Information/dp/1797031856)
+---
+
+Written by Peter Hollins, read it at [Blinkist](https://www.blinkist.com/en/books/the-science-of-rapid-skill-acquisition-en) or buy it at [Amazon](https://www.amazon.se/Science-Rapid-Skill-Acquisition-Information/dp/1797031856)
