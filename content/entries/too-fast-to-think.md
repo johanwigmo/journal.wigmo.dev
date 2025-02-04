@@ -2,7 +2,7 @@
 author: ["Johan Wigmo"]
 title: "Notes from: Too Fast to Think"
 date: "2025-02-04"
-desciptionen: "Highlights after reading Too Fast to Think by Christ Lewis, via Blinkist"
+desciptionen: "Highlights after reading Too Fast to Think by Chris Lewis, via Blinkist"
 tags: ["blinkist"]
 ---
 
