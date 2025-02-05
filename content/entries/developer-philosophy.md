@@ -7,7 +7,7 @@ tags: ["article", "development"]
 
 Advice, from a senior developer to a junior developer.
 
-- Avoid, at all costs, arriving at a scenario where the group-up rewrite starts to look attractive
+- Avoid, at all costs, arriving at a scenario where the ground-up rewrite starts to look attractive
 - Aim to be 90% done in 50% of the available time
 - Automate good practice
 - Think about pathological data
