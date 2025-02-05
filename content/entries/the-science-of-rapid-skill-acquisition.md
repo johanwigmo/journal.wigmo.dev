@@ -1,5 +1,4 @@
 ---
-author: ["Johan Wigmo"]
 title: "Notes from: The Science of Rapid Skill Acquisition"
 date: "2025-02-02"
 desciptionen: "Highlights after reading The Science of Rapid Skill Acquisition by Peter Hollins, via Blinkist"
