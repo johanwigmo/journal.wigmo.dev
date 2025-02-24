@@ -15,4 +15,4 @@ To harness your creativity, you should use these eight creative traits; Quite, E
 
 ---
 
-Written by Chris Lewis, read it at [Blinkist](https://www.blinkist.com/books/too-fast-to-think-en) or buy it at [Amazon](https://www.amazon.se/Too-Fast-Think-Creativity-Hyper-connected/dp/0749478861)
+Written by Chris Lewis, read it at [Blinkist](https://www.blinkist.com/books/too-fast-to-think-en?referral_token=5b89e0afc4d0) or buy it at [Amazon](https://www.amazon.se/Too-Fast-Think-Creativity-Hyper-connected/dp/0749478861)

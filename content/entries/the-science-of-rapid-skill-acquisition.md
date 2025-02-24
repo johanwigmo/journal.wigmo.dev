@@ -20,4 +20,4 @@ Aim for *skill stacking*, becoming part of the top 1% is nearly impossible but s
 
 ---
 
-Written by Peter Hollins, read it at [Blinkist](https://www.blinkist.com/en/books/the-science-of-rapid-skill-acquisition-en) or buy it at [Amazon](https://www.amazon.se/Science-Rapid-Skill-Acquisition-Information/dp/1797031856)
+Written by Peter Hollins, read it at [Blinkist](https://www.blinkist.com/en/books/the-science-of-rapid-skill-acquisition-en?referral_token=5b89e0afc4d0) or buy it at [Amazon](https://www.amazon.se/Science-Rapid-Skill-Acquisition-Information/dp/1797031856)
